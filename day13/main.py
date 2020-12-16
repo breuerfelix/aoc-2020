@@ -1,6 +1,7 @@
-with open('input.txt') as f:
+with open('bla.txt') as f:
     data = f.read().split('\n')
-
+# 803025030761664
+print(data)
 time = int(data[0])
 my_time = time
 
